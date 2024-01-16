@@ -1,0 +1,16 @@
+
+
+*{
+    width: 1170px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+
+.banner{
+    border: 1px solid saddlebrown;
+    height: 100%;
+    width: 100%;
+    background-image: url("../images/Banner Image.png");
+    background-size: cover;
+}
